@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Aspire/" />
+  <Folder Name="/Aspire/Aspire.Modules/" />
+  <Folder Name="/Aspire/Aspire.Projects/" />
+  <Folder Name="/Basic/">
+    <Project Path="SerilogConsole/SerilogConsole.csproj" />
+  </Folder>
+  <Folder Name="/Dependency Injection/">
+    <Project Path="DependencyInjectionTemplate/DependencyInjectionTemplate.csproj" />
+  </Folder>
+  <Folder Name="/EFCore/" />
+  <Folder Name="/SemanticKernel/" />
+</Solution>
